@@ -17,10 +17,7 @@ import java.awt.event.ActionListener;
 import java.awt.event.ActionEvent;
 import javax.swing.SwingConstants;
 
-/**
- *
- * @author FlavioBarros
- */
+
 public class frmCadastroProfessor extends javax.swing.JFrame {
 
     /**
