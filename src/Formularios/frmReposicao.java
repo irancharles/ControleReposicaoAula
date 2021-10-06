@@ -20,10 +20,7 @@ import java.util.Vector;
 import java.awt.event.ActionEvent;
 import javax.swing.DefaultComboBoxModel;
 
-/**
- *
- * @author FlavioBarros
- */
+
 public class frmReposicao extends javax.swing.JFrame {
 
     /**
@@ -206,7 +203,7 @@ public class frmReposicao extends javax.swing.JFrame {
         btnCadastrar.setEnabled(false);
         btnLimpar.setEnabled(true);
         txtAreaResultado.append("O professor(a): "+cmbProfessor.getSelectedItem().toString()+"\n");
-        txtAreaResultado.append("Cadastrou a sua reposição para o dia : "+cmbDatas.getSelectedItem().toString()+"\n");
+        txtAreaResultado.append("Cadastrou a sua reposiÃ§Ã£o para o dia : "+cmbDatas.getSelectedItem().toString()+"\n");
         txtAreaResultado.setEditable(false);        
     }//GEN-LAST:event_btnCadastrarActionPerformed
 
