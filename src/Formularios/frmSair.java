@@ -5,10 +5,7 @@
  */
 package Formularios;
 
-/**
- *
- * @author FlavioBarros
- */
+
 public class frmSair extends javax.swing.JFrame {
 
     /**
