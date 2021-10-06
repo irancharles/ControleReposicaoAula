@@ -20,10 +20,7 @@ import javax.swing.JComboBox;
 import javax.swing.DefaultComboBoxModel;
 import java.awt.Dimension;
 
-/**
- *
- * @author FlavioBarros
- */
+
 public class frmCadastrodeExcecoes extends javax.swing.JFrame {
 
     /**
